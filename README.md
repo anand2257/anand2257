@@ -120,6 +120,15 @@ An AI-powered academic research assistant that transforms PDF documents into sea
 
 ---
 
+## 💡 Problem Solving
+
+I regularly practice Data Structures and Algorithms to strengthen my problem-solving and analytical skills.
+
+- **LeetCode:** 1,100+ problems solved
+- **LeetCode Profile:** [anand21314](https://leetcode.com/anand21314/)
+
+---
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand2257&show_icons=true&theme=tokyonight&hide_border=true)
